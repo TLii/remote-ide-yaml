@@ -11,7 +11,7 @@ on:
 
 env:
   cidata: .ci
-  appname: remote-ide-helm
+  appname: remote-ide-yaml
   branch: ${{ github.ref_name }}
 
 jobs:
